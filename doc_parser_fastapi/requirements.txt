@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-docx
+python-docx2txt
+pymupdf
+pandas
+requests
+beautifulsoup4
+lxml
+striprtf
+ebooklib
+pyyaml
